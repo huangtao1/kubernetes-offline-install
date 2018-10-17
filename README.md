@@ -9,3 +9,8 @@
 ```
 ./initWorker.sh
 ```
+## You can download the package by this link
+```
+链接：https://pan.baidu.com/s/1mfZN8B6CQLW9lGyifza1-g 
+提取码：c7b1
+```
